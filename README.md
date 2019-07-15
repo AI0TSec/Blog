@@ -53,7 +53,7 @@ https://github.com/AI0TSec/Blog/labels
 
 ## 📚 License
 
-- [MIT](https://opensource.org/licenses/MIT)
+- [cc-by-sa-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/)
 
 ## Other
 <iframe width="701" height="500" src="https://cybermap.kaspersky.com/cn/widget/dynamic/dark" frameborder="0">
