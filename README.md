@@ -33,7 +33,7 @@
 
 https://github.com/AI0TSec/Blog/issues
 
-## 🛠 Labels
+## ⬇️ Labels
 
 https://github.com/AI0TSec/Blog/labels
 
