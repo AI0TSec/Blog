@@ -1,4 +1,4 @@
-<p align="center"><img src="https://ai0tsec.github.io/Blog/images/AboutMe.jpg"></p>
+<p align="center"><img src="https://ai0tsec.github.io/Blog/images/AboutMe.png"></p>
 
 ## 🏠 Contents
 
