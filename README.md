@@ -1,57 +1,49 @@
-[English](./README.EN.md) | 简体中文
-
 <p align="center"><img src="https://ai0tsec.github.io/Blog/images/AboutMe.jpg"></p>
 
-<h2 align="center">AI0TSec'Blog</h2>
+# 🏠 Contents
+
+- [Preface](#Preface)
+- [Projects](#Projects)
+- [Contribution](#Contribution)
+- [Maintainers](#Maintainers)
+- [Thanks](#Thanks)
+- [License](#License)
+## ⚡️ Preface
 <p align="center"><b>我总不能阻止她奔向比我更好的人吧，可我就是觉得除了我谁也配不上她</b></p>
+## 🚀 Projects
 
-# 目录
+- [Web安全](https://github.com/AI0TSec/Blog/projects/9)
+- [应急响应](https://github.com/AI0TSec/Blog/projects/2)
+- [漏洞靶场](https://github.com/AI0TSec/Blog/projects/7)
+- [安全加固](https://github.com/AI0TSec/Blog/projects/6)
+- [安全工具](https://github.com/AI0TSec/Blog/projects/8)
+- [SDL/DevSecOps](https://github.com/AI0TSec/Blog/projects/5)
+- [云计算安全](https://github.com/AI0TSec/Blog/projects/4)
+- [APT攻击与防御](https://github.com/AI0TSec/Blog/projects/3)
+- [渗透测试](https://github.com/AI0TSec/Blog/projects/1)
+- [编程语言](https://github.com/AI0TSec/Blog/projects/11)
+- [Bypass](https://github.com/AI0TSec/Blog/projects/10)
 
-- [生态](#生态)
-- [必须收藏的资源](#必须收藏的资源)
-- [快速入门](#快速入门)
-  - [安装](#安装)
-  - [用法](#用法)
-- [贡献者们](#贡献者们)
-- [维护者](#维护者)
-- [感谢](#感谢)
-- [License](#license)
-                                                                                                                             
-## 项目
-
-## 贡献/维护者
+## ✨ Contribution/Maintainers
 
 <table>
     <tbody>
         <tr>
             <td>
-                <a target="_blank" href="https://github.com/AI0TSec"><img width="60px" src="https://github.com/AI0TSec/Blog/blob/master/images/Photo.jpg"></a>
+                <a target="_blank" href="https://github.com/AI0TSec"><img width="60px" src="https://ai0tsec.github.io/Blog/images/Photo.jpg"></a>
             </td>
         </tr>
     </tbody>
 </table>
 
-## 感谢
+## 👋 Thanks
 
-
-
-## 许可证
+## 📚 License
 
 - [MIT](https://opensource.org/licenses/MIT)
 
+## ⬇️Other
+<iframe width="701" height="500" src="https://cybermap.kaspersky.com/cn/widget/dynamic/dark" frameborder="0">
 
-<html>
-<head><title>AI0TSec'Blog</title></head> 
-<body><iframe width="701" height="500" src="https://cybermap.kaspersky.com/cn/widget/dynamic/dark" frameborder="0"></body>
-</html>
-
-
-👋
-🏠
-⬇️
-📚
-✨
-🚀
-🛠
-⚡️
- 📝
+🛠 📝
+ 
