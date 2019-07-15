@@ -8,9 +8,12 @@
 - [Maintainers](#Maintainers)
 - [Thanks](#Thanks)
 - [License](#License)
+
 ## ⚡️ Preface
-<p align="center"><b>我总不能阻止她奔向比我更好的人吧，可我就是觉得除了我谁也配不上她</b></p>
-## 🚀 Projects
+
+我总不能阻止她奔向比我更好的人吧，可我就是觉得除了我谁也配不上她
+
+## 🚀Projects
 
 - [Web安全](https://github.com/AI0TSec/Blog/projects/9)
 - [应急响应](https://github.com/AI0TSec/Blog/projects/2)
@@ -42,7 +45,7 @@
 
 - [MIT](https://opensource.org/licenses/MIT)
 
-## ⬇️Other
+## Other
 <iframe width="701" height="500" src="https://cybermap.kaspersky.com/cn/widget/dynamic/dark" frameborder="0">
 
 🛠 📝
