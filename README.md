@@ -1,9 +1,11 @@
 <p align="center"><img src="https://ai0tsec.github.io/Blog/images/AboutMe.jpg"></p>
 
-# 🏠 Contents
+## 🏠 Contents
 
 - [Preface](#Preface)
-- [Projects](#Projects)
+- [Projects](https://github.com/AI0TSec/Blog/projects)
+- [Issues](https://github.com/AI0TSec/Blog/issues)
+- [Labels](https://github.com/AI0TSec/Blog/labels)
 - [Contribution](#Contribution)
 - [Maintainers](#Maintainers)
 - [Thanks](#Thanks)
@@ -27,6 +29,14 @@
 - [编程语言](https://github.com/AI0TSec/Blog/projects/11)
 - [Bypass](https://github.com/AI0TSec/Blog/projects/10)
 
+## 📝 Issues
+
+https://github.com/AI0TSec/Blog/issues
+
+## 🛠 Labels
+
+https://github.com/AI0TSec/Blog/labels
+
 ## ✨ Contribution/Maintainers
 
 <table>
@@ -47,6 +57,3 @@
 
 ## Other
 <iframe width="701" height="500" src="https://cybermap.kaspersky.com/cn/widget/dynamic/dark" frameborder="0">
-
-🛠 📝
- 
