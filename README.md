@@ -43,7 +43,7 @@ https://github.com/AI0TSec/Blog/labels
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/AI0TSec"><img width="30px" src="https://ai0tsec.github.io/Blog/images/Photo.jpg">onlyme</a>
+                <a href="https://github.com/AI0TSec"><img width="50" height="50" src="https://ai0tsec.github.io/Blog/images/Photo.jpg"></a>
             </td>
         </tr>
     </tbody>
