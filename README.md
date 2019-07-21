@@ -13,7 +13,7 @@
 
 ## ⚡️ Preface
 
-我总不能阻止她奔向比我更好的人吧，可我就是觉得除了我谁也配不上她
+道阻且长，行则将至。
 
 ## 🚀 Projects
 
@@ -43,7 +43,7 @@ https://github.com/AI0TSec/Blog/labels
     <tbody>
         <tr>
             <td>
-                <a target="_blank" href="https://github.com/AI0TSec"><img width="60px" src="https://ai0tsec.github.io/Blog/images/Photo.jpg"></a>
+                <a href="https://github.com/AI0TSec"><img src="https://ai0tsec.github.io/Blog/images/Photo.jpg">onlyme</a>
             </td>
         </tr>
     </tbody>
