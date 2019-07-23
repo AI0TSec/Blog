@@ -56,12 +56,17 @@ https://github.com/AI0TSec/Blog/labels
 - [cc-by-sa-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/)
 
 ## Other
-<link rel="stylesheet" href="https://unpkg.com/comicgen/dist/comicgen.min.css">
-<script async src="https://unpkg.com/comicgen"></script>
-<div class="comic-panel">
-    <div class="comic-caption-top">And this is Dey, my co-star on this strip.</div>
-    <svg width="300" height="200">
-      <g class="comicgen" name="dee" angle="straight" emotion="smilehappy" pose="pointingright" x="160" y="0" scale="0.88" width="300" height="200" mirror="1"></g>
-      <g class="comicgen" name="dey" angle="straight" emotion="smile" pose="handsinpocket" x="-120" y="10" scale="0.88" width="300" height="200"></g>
-    </svg>
-  </div>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/comicgen/dist/comicgen.min.css"><script async src="https://unpkg.com/comicgen"></script>
+    </head>
+    <body>
+        <div class="comic-panel">
+            <div class="comic-caption-top">And this is Dey, my co-star on this strip.</div>
+            <svg width="300" height="200">
+                <g class="comicgen" name="dee" angle="straight" emotion="smilehappy" pose="pointingright" x="160" y="0" scale="0.88" width="300" height="200" mirror="1"></g>
+                <g class="comicgen" name="dey" angle="straight" emotion="smile" pose="handsinpocket" x="-120" y="10" scale="0.88" width="300" height="200"></g>
+            </svg>
+        </div>
+    </body>
+</html>
