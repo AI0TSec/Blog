@@ -56,8 +56,3 @@ https://github.com/AI0TSec/Blog/labels
 - [cc-by-sa-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/)
 
 ## Other
-<link rel="stylesheet" href="https://unpkg.com/comicgen/dist/comicgen.min.css">
-<svg width="500" height="600">
-  <g class="comicgen" name="dee" angle="straight" emotion="smilehappy" pose="pointingright" x="-120"></g>
-  <g class="comicgen" name="dey" angle="straight" emotion="smile" pose="handsinpocket" x="150"></g>
-</svg>
