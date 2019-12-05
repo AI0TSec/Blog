@@ -37,22 +37,6 @@ https://github.com/AI0TSec/Blog/issues
 
 https://github.com/AI0TSec/Blog/labels
 
-## ✨ Contribution/Maintainers
-
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <a href="https://github.com/AI0TSec"><img width="50" height="50" src="https://ai0tsec.github.io/Blog/images/Photo.jpg"></a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-## 👋 Thanks
-
 ## 📚 License
 
 - [cc-by-sa-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/)
-
-## Other
