@@ -38,4 +38,4 @@ https://github.com/AI0TSec/Blog/labels
 
 - [cc-by-sa-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/)
 
-## 不定时更新，周期性积淀；
+## 个人笔记搬运工；不定时更新，记性不好，周期性学习/项目/接触积淀；非牛人，大佬绕道；非一次成文，断断续续commit；某一技术或漏洞文章，想到类似或同一领域会先行立题；
