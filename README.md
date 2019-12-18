@@ -6,9 +6,6 @@
 - [Projects](https://github.com/AI0TSec/Blog/projects)
 - [Issues](https://github.com/AI0TSec/Blog/issues)
 - [Labels](https://github.com/AI0TSec/Blog/labels)
-- [Contribution](#Contribution)
-- [Maintainers](#Maintainers)
-- [Thanks](#Thanks)
 - [License](#License)
 
 ## ⚡️ Preface
@@ -40,3 +37,5 @@ https://github.com/AI0TSec/Blog/labels
 ## 📚 License
 
 - [cc-by-sa-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/)
+
+## 不定时更新，周期性积淀；
